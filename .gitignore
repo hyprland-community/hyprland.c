@@ -46,7 +46,12 @@
 *.mod*
 *.cmd
 .tmp_versions/
+.cache/
+:qa
+:qa
+:qa
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+compile_commands.json
